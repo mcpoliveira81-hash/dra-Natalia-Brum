@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependências / build
+node_modules/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Fotos originais de origem (as usadas no site estão em /assets)
+dde422ec-4b96-4beb-a369-2d6b57d032c2.jpg
+watermarked_img_11406812356676282655.jpg
